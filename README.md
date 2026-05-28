@@ -13,4 +13,4 @@ He also loves the New York Rangers very much - LET'S GO RANGERS!
 <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/9fb14d44-4a09-4e67-9fbd-ceb0b23e8fa0" />
 
 
-[![mbuckne6-blip's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbuckne6-blip)](https://github.com/mbuckne6-blip/github-readme-stats)
+![githubstats][mbuckne6-blip's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbuckne6-blip)](https://github.com/mbuckne6-blip/github-readme-stats)
