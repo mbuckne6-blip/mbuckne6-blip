@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![mbuckne6-blip's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbuckne6-blip)](https://github.com/mbuckne6-blip/github-readme-stats)
 <!--
 **mbuckne6-blip/mbuckne6-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
