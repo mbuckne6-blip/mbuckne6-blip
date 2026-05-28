@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-*Improvise, Adapt, Overcome - Alternatively: Reduce, Reuse, Reanimate*
+#H1 ***Improvise, Adapt, Overcome - Alternatively: Reduce, Reuse, Reanimate***
+
+---
+
 Mack Buckner is a grad student at Arizona State University pursuing a Master's of Science in Graphic Information Technology. He completed his undergraduate degree in Industrial Design from the Savannah College of Art and Design.
 
 Mack currently works as an graphic designer for large scale commercial printing and pursues a career in the professional hockey industry working with goaltender equipment. He also plays hockey as a goaltender, an unforgiving but often rewarding position that he enjoys very much.
