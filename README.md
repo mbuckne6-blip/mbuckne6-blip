@@ -1,6 +1,6 @@
-## Hi there 👋
+## Howdy, Howdy, Howdy! 👋
 
-#H1 ***Improvise, Adapt, Overcome - Alternatively: Reduce, Reuse, Reanimate***
+***Improvise, Adapt, Overcome - Alternatively: Reduce, Reuse, Reanimate***
 
 ---
 
